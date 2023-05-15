@@ -21,10 +21,6 @@
   },
   "targetDefaults": {
     "build": {
-      "inputs": [
-        "prod",
-        "^prod"
-      ],
       "dependsOn": [
         "^build"
       ]
